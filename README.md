@@ -1,7 +1,7 @@
 # Orbita_3d_R1
 All you need to make your own Orbita_3d Joint!
 
-<img src="./doc/img/toph_02.jpg" alt="3d view - Major_Tom" height="500"/>
+<img src="./doc/img/toph_01.jpg" alt="3d view - Major_Tom" height="500" />
 
 
 ## Basically
