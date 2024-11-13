@@ -1,5 +1,9 @@
 # Orbita_3d_R1
-All you need to make your own Orbita_3d Joint! (Actually we are missing the mechanical parts at the moment)
+All you need to make your own Orbita_3d Joint!
+
+<img src="./doc/img/toph_01.jpg" alt="3d view - Houston" height="500"/>
+<img src="./doc/img/toph_02.jpg" alt="3d view - Major_Tom" height="500"/>
+
 
 ## Basically
 Please find:
@@ -7,6 +11,14 @@ Please find:
  - Firmware gather communication (Dynamixel library) and motor control (SimpleFOC library)
  - Cables
 
+## Licences
+ - Firmware is under Apache-2.0 licence
+ - Electronic/Cables is under CC-BY-SA-NC Licence
+
+## Patents
+https://patents.google.com/patent/FR3141363A1
+
+<img src="./doc/img/meca.png" alt="3d view - Mecanique - FR" width="600"/>
+
 ## Contact
 contact@pollen-robotics.com
-
