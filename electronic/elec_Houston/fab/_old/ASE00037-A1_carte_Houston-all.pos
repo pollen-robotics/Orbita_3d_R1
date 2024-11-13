@@ -1,0 +1,42 @@
+### Module positions - created on mer. 18 janv. 2023 12:07:13 ###
+### Printed by Pcbnew version 6.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val              Package                                                      PosX       PosY       Rot  Side
+C1        100n_6V3         C_0603_1608Metric                                        -31.4750   -28.8500  180.0000  top
+C80       100n_6V3         C_0603_1608Metric                                        -28.4000   -34.8000  -90.0000  top
+C81       100n_6V3         C_0603_1608Metric                                        -19.0000   -39.3000   90.0000  top
+C82       100n_6V3         C_0603_1608Metric                                        -10.2000   -38.4000  180.0000  top
+C83       100n_6V3         C_0603_1608Metric                                         -6.4000   -28.5000  180.0000  top
+C84       100n_6V3         C_0603_1608Metric                                         -8.4000   -22.1000   90.0000  top
+C85       100n_6V3         C_0603_1608Metric                                        -24.3000   -19.3000  180.0000  top
+D1        USBLC6-2SC6      SOT23-6L                                                  -3.7000   -34.4000  180.0000  top
+D2        Green            LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder            -36.2000    -9.3000    0.0000  top
+D3        Red              LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder            -36.2000   -11.0000    0.0000  top
+FID1      DNP_Fiducial     Fiducial_1mm_Mask2mm                                       0.0000     0.0000    0.0000  top
+FID2      DNP_Fiducial     Fiducial_1mm_Mask2mm                                     -23.0000    -1.0000    0.0000  top
+FID3      DNP_Fiducial     Fiducial_1mm_Mask2mm                                       4.0000   -48.0000    0.0000  top
+J1        10118194-0001LF  Amphenol_10118194-0001LF                                   8.6725   -38.0000   90.0000  top
+J3        SIL6             PinHeader_1x06_P2.54mm_Vertical                          -28.9000    -1.0000    0.0000  top
+J4        Pico4            Molex_PicoBlade_53398-0471_1x04-1MP_P1.25mm_Vertical       1.6500   -38.4000  -90.0000  top
+J5        FFC_0,5_mm       Hirose_FH12-10S-0.5SH_1x10-1MP_P0.50mm_Horizontal        -14.9000    -2.8000  180.0000  top
+J7        Pico5            Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal   -36.3000   -37.8000  -90.0000  top
+J10       FFC_0,5_mm       Hirose_FH12-40S-0.5SH_1x40-1MP_P0.50mm_Horizontal          5.1000   -11.8000   90.0000  top
+J11       Pico5            Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal   -32.7500   -48.2000    0.0000  top
+J21       Pico5            Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal   -19.2500   -48.2500    0.0000  top
+J31       Pico5            Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal    -5.7500   -48.2500    0.0000  top
+R1        100k             R_0603_1608Metric                                        -31.5000   -27.2000    0.0000  top
+R2        10k              R_0603_1608Metric                                        -31.7000   -17.2000   90.0000  top
+R3        470R             R_0603_1608Metric                                        -32.8000   -10.0000    0.0000  top
+R4        470R             R_0603_1608Metric                                        -32.8000   -11.6000    0.0000  top
+R6        4k7              R_0603_1608Metric                                        -19.6000   -42.0000  180.0000  top
+R7        9k1              R_0603_1608Metric                                        -22.7000   -42.0000  180.0000  top
+R16       0R               R_0603_1608Metric                                        -19.6000   -43.6000    0.0000  top
+R17       DNP_0R           R_0603_1608Metric                                        -16.5000   -43.6000    0.0000  top
+R26       0R               R_0603_1608Metric                                        -18.1000   -15.1000   90.0000  top
+R27       DNP_0R           R_0603_1608Metric                                        -18.1000   -18.2000   90.0000  top
+R36       0R               R_0603_1608Metric                                        -23.0975   -11.5000    0.0000  top
+R37       DNP_0R           R_0603_1608Metric                                        -23.8000   -13.8000   90.0000  top
+SW1       Switch           SW_SPDT_CK-JS102011SAQN                                  -37.4000   -18.5000  -90.0000  top
+U1        STM32G474        QFP50P1600X1600X160-100N                                 -18.0000   -28.7500    0.0000  top
+## End

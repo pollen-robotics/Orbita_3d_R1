@@ -1,0 +1,20 @@
+### Module positions - created on Tue Feb 28 10:30:30 2023 ###
+### Printed by Pcbnew version 6.0.2+dfsg-1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                        PosX       PosY       Rot  Side
+C1        100nF_6V3                C_0603_1608Metric           16.0000   -10.8000   90.0000  bottom
+C10       100nF_6V3                C_0603_1608Metric           10.5250    -4.9750    0.0000  bottom
+C20       100nF_6V3                C_0603_1608Metric           40.0250    -7.7750  -90.0000  bottom
+C30       100nF_6V3                C_0603_1608Metric           28.4000    14.2500  -90.0000  bottom
+C40       100nF_6V3                C_0603_1608Metric           11.3500     8.9000   90.0000  bottom
+C41       100nF_6V3                C_0603_1608Metric            3.8000     8.1000  -135.0000  bottom
+FID1      DNP_-_Fiducial           Fiducial_0.5mm_Mask1mm       0.0000     0.0000  180.0000  bottom
+FID2      DNP_-_Fiducial           Fiducial_0.5mm_Mask1mm      22.6750   -23.0000  180.0000  bottom
+FID3      DNP_-_Fiducial           Fiducial_0.5mm_Mask1mm      44.0000     0.0000  180.0000  bottom
+J1        FFC_0,5_mm_top_contacts  TE_1-1734839-0              22.5000   -12.6000  180.0000  bottom
+U10       AS5047D                  TSSOP-14_4.4x5mm_P0.65mm     9.7750    -8.5250  180.0000  bottom
+U20       AS5047D                  TSSOP-14_4.4x5mm_P0.65mm    35.2250    -8.5250  180.0000  bottom
+U30       AS5047D                  TSSOP-14_4.4x5mm_P0.65mm    22.5000    13.5250  180.0000  bottom
+U40       BMI088                   BMI088                       7.6500     7.5000  -90.0000  bottom
+## End
